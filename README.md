@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salma Guevara</h1>
+<h1 align="center">Hi 👋🤠, I'm Salma Guevara</h1>
 <h3 align="center"># Backend Developer 👩‍💻🤓 # UX Designer enthusiast 🐱‍👤✨ # Bionic Engineer 🤖👩🏽‍🎓 # Pet lover 🐶🐕‍🦺🐘🐢🐨🐪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salma-guevara&label=Profile%20views&color=0e75b6&style=flat" alt="salma-guevara" /> </p>
