@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Salma Guevara</h1>
+<h1 align="center">Hi 👋🤠, I'm Salma Guevara</h1>
 <h3 align="center"># Backend Developer 👩‍💻🤓 # UX Designer enthusiast 🐱‍👤✨ # Bionic Engineer 🤖👩🏽‍🎓 # Pet lover 🐶🐕‍🦺🐘🐢🐨🐪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salma-guevara&label=Profile%20views&color=0e75b6&style=flat" alt="salma-guevara" /> </p>
 
 - 🔭 I’m currently working on [W-Connect - Hackademy](https://github.com/hackademymx/arya-back-django)
 
-- 🌱 I’m currently learning **Django rest framework, UX Design, Azure Form Recognizer**
+- 🌱 I’m currently learning **User Experience Design (UX), Azure Form Recognizer**
 
-- 👯 I'm also have a personal project ongoing about UX experience [Mi pastelería pastel](coming soon ...)
+- 👯 Visit my last project [My Money](https://my-money-byte-me-11.netlify.app/)
+
+- 🤝 I'm also have a personal project ongoing about UX experience **coming soon ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
