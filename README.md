@@ -9,7 +9,7 @@
 
 - 👯 Visit my last project [My Money](https://my-money-byte-me-11.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/portafolio-de-salma-guevara/inicio?authuser=0](https://sites.google.com/view/portafolio-de-salma-guevara/inicio?authuser=0)
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/portafolio-de-salma-guevara/inicio?authuser=0](https://sites.google.com/view/portafolio-de-salma-guevara/inicio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
