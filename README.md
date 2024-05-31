@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salma Guevara</h1>
-<h3 align="center"># Backend Developer 👩‍💻🤓 # UX Designer enthusiast 🐱‍👤✨ # Bionic Engineer 🤖👩🏽‍🎓 # Pet lover 🐶🐕‍🦺🐘🐢🐨🐪</h3>
+<h3 align="center"># UX Designer at UpWork 🐱‍👤✨ # Digital Design Lead at Google 👩🏽‍💻✨ # Pentester amateur 👩‍💻🤓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salma-guevara&label=Profile%20views&color=b40e9e&style=plastic" alt="salma-guevara" /> </p>
 
