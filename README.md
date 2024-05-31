@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salma-guevara&label=Profile%20views&color=b40e9e&style=plastic" alt="salma-guevara" /> </p>
 
-- 🔭 I’m currently working on [Period](https://github.com/salma-guevara/period)
 
-- 🌱 I’m currently learning **Mobile Development, Kotlin, Android Studio 📱✨**
+- 🌱 I’m currently learning **Pentesting, CISO✨**
 
-- 👯 Visit my last project [My Money](https://my-money-byte-me-11.netlify.app/)
+- 👯 Visit my last project [Period](https://github.com/salma-guevara/period)
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/portafolio-de-salma-guevara/inicio?authuser=0](https://sites.google.com/view/portafolio-de-salma-guevara/inicio)
 
